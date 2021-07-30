@@ -1,5 +1,7 @@
+Download OllyDbg from http://www.ollydbg.de/odbg110.zip
+
 ![x](https://raw.githubusercontent.com/gdl-888/run-node-v6-windows-xp/master/1.PNG)
-Open Node.js(`node.exe` with Ollydbg.
+Open Node.js(`node.exe`) with Ollydbg.
 
 
 ![x](https://raw.githubusercontent.com/gdl-888/run-node-v6-windows-xp/master/2.PNG)
